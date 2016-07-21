@@ -6,6 +6,7 @@ import About from 'About';
 import Example from 'Example';
 
 import { Route, Router, IndexRoute, hashHistory } from 'react-router';
+import 'foundation-sites/dist/foundation.min.css';
 
 ReactDOM.render(
   <Router history={hashHistory}>
