@@ -2,6 +2,9 @@ import React, { Component } from 'react';
 
 export default (props) => {
   return(
-    <h3>Examples</h3>
+    <div>
+      <h3>Examples</h3>
+      <p>Welcome to Examples Page</p>
+    </div>
   );
 }
